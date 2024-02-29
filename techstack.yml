@@ -2,7 +2,7 @@ repo_name: donaldww/live_stuff
 report_id: c97ed90c56a33547875c78f9c8f72438
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:18:31+00:00'
+timestamp: '2024-02-29T18:10:44+00:00'
 requested_by: donaldww
 provider: github
 branch: main
@@ -81,7 +81,7 @@ tools:
   last_updated_by: Donald Wilson
   last_updated_on: 2022-02-25 01:44:40.000000000 Z
 - name: Cowboy
-  description: 'Small, fast, modular HTTP server written in Erlang. '
+  description: Small, fast, modular HTTP server written in Erlang.
   website_url: https://github.com/ninenines/cowboy
   license: ISC
   open_source: true
